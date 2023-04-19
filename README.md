@@ -1,3 +1,3 @@
 # Recurrence-Network-conventional
 
-This is a README
+This is a function to generate conventional Recurrence Network.
